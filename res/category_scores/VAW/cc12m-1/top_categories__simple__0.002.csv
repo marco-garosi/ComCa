@@ -1,0 +1,1318 @@
+,category,counts,chosen
+0,adult,0.0,False
+1,air conditioner,0.0,False
+2,aircraft,0.0,False
+3,airplane,0.0,False
+4,airplane fuel truck,0.0,False
+5,airplanes,0.0,False
+6,airport,0.0,False
+7,american flag,0.0,False
+8,animal,0.002556712494315256,True
+9,animals,0.0026646181914204096,True
+10,antenna,0.0,False
+11,apple,0.0,False
+12,apples,0.0,False
+13,appliance,0.0,False
+14,apron,0.0,False
+15,arch,0.0,False
+16,archway,0.0,False
+17,area,0.0022578232625107145,True
+18,arm,0.0,False
+19,arm rest,0.0,False
+20,armrest,0.0,False
+21,arms,0.0,False
+22,arrow,0.0,False
+23,arrows,0.0,False
+24,art,0.01287157405048358,True
+25,artwork,0.0,False
+26,asphalt,0.0,False
+27,audience,0.0,False
+28,awning,0.0,False
+29,baby,0.005724890605559717,True
+30,back,0.0036986348788720087,True
+31,back door,0.0,False
+32,back legs,0.0,False
+33,background,0.02536141976098676,True
+34,backpack,0.0,False
+35,bacon,0.0,False
+36,bag,0.0021199172351631986,True
+37,bags,0.0,False
+38,balcony,0.0,False
+39,ball,0.0,False
+40,balloons,0.0,False
+41,balls,0.0,False
+42,banana,0.0,False
+43,bananas,0.0,False
+44,band,0.0,False
+45,bandana,0.0,False
+46,bank,0.0,False
+47,banner,0.0,False
+48,bar,0.0,False
+49,bark,0.0,False
+50,barn,0.0,False
+51,barrel,0.0,False
+52,barrier,0.0,False
+53,barriers,0.0,False
+54,bars,0.0,False
+55,base,0.0,False
+56,baseball,0.0,False
+57,baseball player,0.0,False
+58,baseboard,0.0,False
+59,basket,0.0,False
+60,bat,0.0,False
+61,bathroom,0.0,False
+62,bathtub,0.0,False
+63,batter,0.0,False
+64,beach,0.0032980203893491133,True
+65,beads,0.0,False
+66,beak,0.0,False
+67,beam,0.0,False
+68,beams,0.0,False
+69,bean,0.0,False
+70,beans,0.0,False
+71,bear,0.0,False
+72,bears,0.0,False
+73,bed,0.0021993876059908882,True
+74,bedding,0.0,False
+75,bedroom,0.002719499432155553,True
+76,bedside lamp,0.0,False
+77,bedspread,0.0,False
+78,beer,0.0,False
+79,bell,0.0,False
+80,belly,0.0,False
+81,belt,0.0,False
+82,bench,0.0,False
+83,benches,0.0,False
+84,berries,0.0,False
+85,bib,0.0,False
+86,bicycle,0.0,False
+87,bicycles,0.0,False
+88,bike,0.0,False
+89,biker,0.0,False
+90,bikes,0.0,False
+91,bikini,0.0,False
+92,bill,0.0,False
+93,billboard,0.0,False
+94,bin,0.0,False
+95,bird,0.0,False
+96,birds,0.0,False
+97,black,0.020415874604455195,True
+98,blade,0.0,False
+99,blades,0.0,False
+100,blanket,0.0,False
+101,bleachers,0.0,False
+102,blender,0.0,False
+103,blind,0.0,False
+104,blinds,0.0,False
+105,block,0.0,False
+106,blocks,0.0,False
+107,blouse,0.0,False
+108,blue,0.015056717467844805,True
+109,board,0.0,False
+110,boards,0.0,False
+111,boat,0.0,False
+112,boats,0.0,False
+113,body,0.0,False
+114,bolt,0.0,False
+115,bolts,0.0,False
+116,book,0.002957671815220247,True
+117,bookcase,0.0,False
+118,books,0.0,False
+119,bookshelf,0.0,False
+120,boot,0.0,False
+121,boots,0.0,False
+122,border,0.0,False
+123,bottle,0.0,False
+124,bottles,0.0,False
+125,bottom,0.0,False
+126,bottoms,0.0,False
+127,boulder,0.0,False
+128,bow,0.0,False
+129,bowl,0.0020438421271746095,True
+130,bowls,0.0,False
+131,box,0.0024938205553191105,True
+132,box spring,0.0,False
+133,boxes,0.0,False
+134,boy,0.0029727382940687545,True
+135,boy wearing mickey,0.0,False
+136,boy's arm,0.0,False
+137,boys,0.0,False
+138,brace,0.0,False
+139,bracelet,0.0,False
+140,branch,0.0,False
+141,branches,0.0,False
+142,bread,0.0,False
+143,brick,0.0,False
+144,bricks,0.0,False
+145,bride,0.0,False
+146,bridge,0.0,False
+147,bridle,0.0,False
+148,broccoli,0.0,False
+149,broccolli,0.0,False
+150,brush,0.0,False
+151,bubbles,0.0,False
+152,bucket,0.0,False
+153,bucket for tractor,0.0,False
+154,building,0.0030710152379661475,True
+155,buildings,0.0,False
+156,bull,0.0,False
+157,bumper,0.0,False
+158,bun,0.0,False
+159,bunch,0.0,False
+160,bunny,0.0,False
+161,bus,0.0,False
+162,buses,0.0,False
+163,bush,0.0,False
+164,bushes,0.0,False
+165,butter,0.0,False
+166,button,0.0,False
+167,buttons,0.0,False
+168,cab,0.0,False
+169,cabbage,0.0,False
+170,cabinet,0.0,False
+171,cabinet door,0.0,False
+172,cabinets,0.0,False
+173,cable,0.0,False
+174,cables,0.0,False
+175,cake,0.0,False
+176,calf,0.0,False
+177,camera,0.0,False
+178,camping trip,0.0,False
+179,can,0.006260493318427776,True
+180,candle,0.0,False
+181,candles,0.0,False
+182,candy,0.0,False
+183,canister,0.0,False
+184,canopies,0.0,False
+185,canopy,0.0,False
+186,cans,0.0,False
+187,cap,0.0,False
+188,caps,0.0,False
+189,captain cookies van,0.0,False
+190,car,0.0035228769759667114,True
+191,card,0.0025317254818587524,True
+192,cardboard,0.0,False
+193,cargo shorts,0.0,False
+194,carpet,0.0,False
+195,carriage,0.0,False
+196,carrot,0.0,False
+197,carrots,0.0,False
+198,cars,0.0,False
+199,cart,0.0,False
+200,carton,0.0,False
+201,case,0.0,False
+202,castle,0.0,False
+203,cat,0.0023097866992435063,True
+204,cat tail,0.0,False
+205,catcher,0.0,False
+206,cats,0.0,False
+207,cattle,0.0,False
+208,cauliflower,0.0,False
+209,cave,0.0,False
+210,cd,0.0,False
+211,ceiling,0.0,False
+212,cell phone,0.0,False
+213,cellphone,0.0,False
+214,cement,0.0,False
+215,center,0.0,False
+216,chain,0.0,False
+217,chains,0.0,False
+218,chair,0.0,False
+219,chairs,0.0,False
+220,chandelier,0.0,False
+221,chapel,0.0,False
+222,character,0.0027928954655601647,True
+223,cheese,0.0,False
+224,chemtrails,0.0,False
+225,chest,0.0,False
+226,chicken,0.0,False
+227,child,0.0,False
+228,children,0.002381829932610664,True
+229,chili,0.0,False
+230,chin,0.0,False
+231,chips,0.0,False
+232,chocolate,0.0024650138721686193,True
+233,church,0.0,False
+234,circle,0.0,False
+235,claw,0.0,False
+236,claws,0.0,False
+237,cleat,0.0,False
+238,cleats,0.0,False
+239,cliff,0.0,False
+240,cliffs,0.0,False
+241,clip,0.0,False
+242,clock,0.0,False
+243,clock face,0.0,False
+244,clock tower,0.0,False
+245,clocks,0.0,False
+246,cloth,0.0,False
+247,clothes,0.0,False
+248,clothing,0.0,False
+249,cloths,0.0,False
+250,cloud,0.0,False
+251,clouds,0.0,False
+252,coaster,0.0,False
+253,coat,0.0,False
+254,cockpit,0.0,False
+255,coffee,0.0020329666758931164,True
+256,coffee table,0.0,False
+257,coke,0.0,False
+258,collar,0.0,False
+259,color,0.00520353208132132,True
+260,color hair,0.0,False
+261,column,0.0,False
+262,columns,0.0,False
+263,comforter,0.0,False
+264,computer,0.0,False
+265,computer screen,0.0,False
+266,concrete,0.0,False
+267,cone,0.0,False
+268,cones,0.0,False
+269,container,0.0,False
+270,containers,0.0,False
+271,controller,0.0,False
+272,cookie,0.0,False
+273,cooler,0.0,False
+274,cord,0.0,False
+275,cords,0.0,False
+276,corn,0.0,False
+277,corner,0.0,False
+278,couch,0.0,False
+279,counter,0.0,False
+280,counter top,0.0,False
+281,countertop,0.0,False
+282,couple,0.002018430706863219,True
+283,couples,0.0,False
+284,court,0.0,False
+285,cover,0.0,False
+286,covering,0.0,False
+287,cow,0.0,False
+288,cows,0.0,False
+289,crack,0.0,False
+290,cracks,0.0,False
+291,crane,0.0,False
+292,crate,0.0,False
+293,cream,0.0,False
+294,cross,0.0,False
+295,crosswalk,0.0,False
+296,crowd,0.0,False
+297,crown,0.0,False
+298,crullers,0.0,False
+299,crumbs,0.0,False
+300,crust,0.0,False
+301,cucumber,0.0,False
+302,cucumbers,0.0,False
+303,cup,0.0,False
+304,cupboard,0.0,False
+305,cupcake,0.0,False
+306,cups,0.0,False
+307,curb,0.0,False
+308,curtain,0.0,False
+309,curtains,0.0,False
+310,cushion,0.0,False
+311,cushions,0.0,False
+312,cutlery,0.0,False
+313,cutting board,0.0,False
+314,cycle,0.0,False
+315,dark-haired,0.0,False
+316,day,0.0061792987906896055,True
+317,deck,0.0,False
+318,decoration,0.0,False
+319,deer,0.0,False
+320,desert,0.0,False
+321,design,0.014712124815167064,True
+322,designs,0.0030002452281636524,True
+323,desk,0.0,False
+324,dessert,0.0,False
+325,device,0.0,False
+326,dining table,0.0,False
+327,dinner,0.0,False
+328,dirt,0.0,False
+329,disc,0.0,False
+330,dish,0.0,False
+331,dishes,0.0,False
+332,dishwasher,0.0,False
+333,disk,0.0,False
+334,disney princess,0.0,False
+335,dispenser,0.0,False
+336,display,0.0,False
+337,divider,0.0,False
+338,dock,0.0,False
+339,dog,0.0031495572166112705,True
+340,dogs,0.0,False
+341,doll,0.0,False
+342,dome,0.0,False
+343,donkey,0.0,False
+344,donut,0.0,False
+345,donuts,0.0,False
+346,door,0.0020537096098007445,True
+347,door handle,0.0,False
+348,door knob,0.0,False
+349,doorknob,0.0,False
+350,doors,0.0,False
+351,doorway,0.0,False
+352,dot,0.0,False
+353,dough,0.0,False
+354,doughnut,0.0,False
+355,doughnuts,0.0,False
+356,drain,0.0,False
+357,drapes,0.0,False
+358,drawer,0.0,False
+359,drawers,0.0,False
+360,drawing,0.0035220281602569366,True
+361,dress,0.005270800726320993,True
+362,dresser,0.0,False
+363,dresses,0.002278911027800439,True
+364,drink,0.0,False
+365,driver,0.0,False
+366,driveway,0.0,False
+367,duck,0.0,False
+368,ducks,0.0,False
+369,dumpster,0.0,False
+370,dwelling,0.0,False
+371,ear,0.0,False
+372,earring,0.0,False
+373,ears,0.0,False
+374,easel,0.0,False
+375,edge,0.0,False
+376,egg,0.0,False
+377,eggs,0.0,False
+378,elbow,0.0,False
+379,elephant,0.0,False
+380,elephants,0.0,False
+381,emblem,0.0,False
+382,enclosure,0.0,False
+383,end,0.0,False
+384,end table,0.0,False
+385,engine,0.0,False
+386,entrance,0.0,False
+387,equipment,0.0,False
+388,escalator,0.0,False
+389,evergreen,0.0,False
+390,exhaustion,0.0,False
+391,eye,0.0,False
+392,eyeglasses,0.0,False
+393,eyes,0.0,False
+394,fabric,0.002128511494224671,True
+395,face,0.002863506322417077,True
+396,family,0.0028753632168629973,True
+397,fan,0.0,False
+398,faucet,0.0,False
+399,feather,0.0,False
+400,feathers,0.0,False
+401,feeder,0.0,False
+402,feet,0.0,False
+403,female,0.0032013084494166184,True
+404,fence,0.0,False
+405,fencing,0.0,False
+406,fender,0.0,False
+407,field,0.0,False
+408,figurine,0.0,False
+409,filter,0.0,False
+410,finger,0.0,False
+411,fingernail,0.0,False
+412,fire,0.0,False
+413,fire hydrant,0.0,False
+414,fire truck,0.0,False
+415,fireplace,0.0,False
+416,fish,0.0,False
+417,flag,0.0,False
+418,flags,0.0,False
+419,flame,0.0,False
+420,flip flops,0.0,False
+421,floor,0.0032796382241342976,True
+422,floor mat,0.0,False
+423,flooring,0.0,False
+424,floors,0.0,False
+425,flower,0.0028112776307749805,True
+426,flower bed,0.0,False
+427,flower pot,0.0,False
+428,flowers,0.003990733584998349,True
+429,foam,0.0,False
+430,foil,0.0,False
+431,foliage,0.0,False
+432,food,0.0030367973546658405,True
+433,food truck,0.0,False
+434,foot,0.0,False
+435,footprints,0.0,False
+436,forehead,0.0,False
+437,forest,0.0,False
+438,fork,0.0,False
+439,fountain,0.0,False
+440,fox,0.0,False
+441,frame,0.002514324759808364,True
+442,french fries,0.0,False
+443,french fry,0.0,False
+444,fridge,0.0,False
+445,friend,0.0,False
+446,fries,0.0,False
+447,frisbee,0.0,False
+448,front,0.004332196229746296,True
+449,front car,0.0,False
+450,front leg,0.0,False
+451,front tire,0.0,False
+452,front wheel,0.0,False
+453,front window,0.0,False
+454,frosting,0.0,False
+455,fruit,0.0,False
+456,fruits,0.0,False
+457,fry,0.0,False
+458,fur,0.0,False
+459,furniture,0.0023710340578019626,True
+460,garage,0.0,False
+461,garage floor,0.0,False
+462,garbage can,0.0,False
+463,garden,0.0033460050024423345,True
+464,gate,0.0,False
+465,giraffe,0.0,False
+466,giraffes,0.0,False
+467,girl,0.007307268767016931,True
+468,girls,0.0020276615777070225,True
+469,glass,0.006595775523788923,True
+470,glasses,0.0,False
+471,glove,0.0,False
+472,gloves,0.0,False
+473,goat,0.0,False
+474,goose,0.0,False
+475,graffiti,0.0,False
+476,grapes,0.0,False
+477,graphic,0.0,False
+478,grass,0.0,False
+479,grate,0.0,False
+480,grating,0.0,False
+481,gravel,0.0,False
+482,greenery,0.0,False
+483,greens,0.0,False
+484,grill,0.0,False
+485,grooves,0.0,False
+486,ground,0.0,False
+487,group,0.0,False
+488,guard,0.0,False
+489,guy,0.0,False
+490,hair,0.0036683162427384812,True
+491,haircut,0.0,False
+492,hand,0.006465588414302174,True
+493,handbag,0.0,False
+494,handle,0.0,False
+495,handle bars,0.0,False
+496,handlebars,0.0,False
+497,handles,0.0,False
+498,handrail,0.0,False
+499,hands,0.002056521311839374,True
+500,hanger,0.0,False
+501,harness,0.0,False
+502,hat,0.0,False
+503,hatchback,0.0,False
+504,hats,0.0,False
+505,hawk,0.0,False
+506,hay,0.0,False
+507,head,0.002152517063516747,True
+508,head light,0.0,False
+509,headband,0.0,False
+510,headboard,0.0,False
+511,headlight,0.0,False
+512,headlights,0.0,False
+513,headphones,0.0,False
+514,heart,0.002274136439432954,True
+515,hedge,0.0,False
+516,hedges,0.0,False
+517,helmet,0.0,False
+518,helmets,0.0,False
+519,herd,0.0,False
+520,highway,0.0,False
+521,highway scaffolding,0.0,False
+522,hill,0.0,False
+523,hills,0.0,False
+524,hillside,0.0,False
+525,hinge,0.0,False
+526,holder,0.0,False
+527,hole,0.0,False
+528,home,0.0081917877875844,True
+529,home plate,0.0,False
+530,hoodie,0.0,False
+531,hook,0.0,False
+532,hooves,0.0,False
+533,horn,0.0,False
+534,horns,0.0,False
+535,horse,0.0,False
+536,horse's head,0.0,False
+537,horses,0.0,False
+538,hose,0.0,False
+539,hot dog,0.0,False
+540,hot pack,0.0,False
+541,hotdog,0.0,False
+542,house,0.007009864962704496,True
+543,houses,0.0,False
+544,human,0.0,False
+545,hydrant,0.0,False
+546,icing,0.0,False
+547,image,0.006906574701021245,True
+548,infield,0.0,False
+549,intersection,0.0,False
+550,item,0.0,False
+551,items,0.0,False
+552,jacket,0.0,False
+553,jar,0.0,False
+554,jean,0.0,False
+555,jeans,0.0,False
+556,jeep,0.0,False
+557,jersey,0.0,False
+558,jet,0.0,False
+559,jockey,0.0,False
+560,jug,0.0,False
+561,juice,0.0,False
+562,jump suit,0.0,False
+563,kayak,0.0,False
+564,ketchup,0.0,False
+565,kettle,0.0,False
+566,keyboard,0.0,False
+567,keys,0.0,False
+568,kid,0.0,False
+569,kids,0.0033467211906974574,True
+570,kitchen,0.003533778952739135,True
+571,kite,0.0,False
+572,kites,0.0,False
+573,kitten,0.0,False
+574,knee,0.0,False
+575,knee pad,0.0,False
+576,knees,0.0,False
+577,knife,0.0,False
+578,knob,0.0,False
+579,knobs,0.0,False
+580,label,0.0,False
+581,lace,0.0,False
+582,ladder,0.0,False
+583,lady,0.0,False
+584,lake,0.0,False
+585,lamb,0.0,False
+586,lamp,0.0,False
+587,lamp post,0.0,False
+588,lamp shade,0.0,False
+589,lamppost,0.0,False
+590,lamps,0.0,False
+591,land,0.0,False
+592,landscape,0.0,False
+593,lantern,0.0,False
+594,lanyard,0.0,False
+595,laptop,0.0,False
+596,lawn,0.0,False
+597,lawn chair,0.0,False
+598,leaf,0.0,False
+599,leash,0.0,False
+600,leaves,0.0,False
+601,ledge,0.0,False
+602,left ear,0.0,False
+603,left hand,0.0,False
+604,leg,0.0,False
+605,legs,0.0,False
+606,lemon,0.0,False
+607,letter,0.0,False
+608,lettering,0.0,False
+609,letters,0.0,False
+610,lettuce,0.0,False
+611,"lettuce, tomatoes",0.0,False
+612,lid,0.0,False
+613,lift,0.0,False
+614,light,0.005464834692477384,True
+615,light fixture,0.0,False
+616,light pole,0.0,False
+617,light post,0.0,False
+618,light shade,0.0,False
+619,lighthouse,0.0,False
+620,lighting,0.0,False
+621,lights,0.0,False
+622,limb,0.0,False
+623,line,0.003427836141962836,True
+624,lines,0.0,False
+625,linoleum,0.0,False
+626,lion,0.0,False
+627,lips,0.0,False
+628,liquid,0.0,False
+629,lock,0.0,False
+630,log,0.0,False
+631,logo,0.002736183965950819,True
+632,lot,0.0,False
+633,luggage,0.0,False
+634,m&m,0.0,False
+635,machine,0.0,False
+636,magazine,0.0,False
+637,male,0.0,False
+638,man,0.007022199315987165,True
+639,mane,0.0,False
+640,manhole,0.0,False
+641,manhole cover,0.0,False
+642,mannequin,0.0,False
+643,map,0.0,False
+644,mark,0.0,False
+645,marker,0.0,False
+646,marking,0.0,False
+647,markings,0.0,False
+648,marks,0.0,False
+649,mask,0.0,False
+650,mat,0.0,False
+651,material,0.0,False
+652,mattress,0.0,False
+653,meal,0.0,False
+654,meat,0.0,False
+655,median,0.0,False
+656,men,0.003458897491842417,True
+657,menu,0.0,False
+658,meter,0.0,False
+659,metrobus,0.0,False
+660,microphone,0.0,False
+661,microwave,0.0,False
+662,mini van,0.0,False
+663,minivan,0.0,False
+664,mirror,0.0,False
+665,mirrors,0.0,False
+666,mist,0.0,False
+667,mitt,0.0,False
+668,molding,0.0,False
+669,monitor,0.0,False
+670,monkey,0.0,False
+671,moped,0.0,False
+672,moss,0.0,False
+673,mother,0.0,False
+674,mother elephant,0.0,False
+675,motorbike,0.0,False
+676,motorcycle,0.0,False
+677,motorcycles,0.0,False
+678,mound,0.0,False
+679,mountain,0.0,False
+680,mountain range,0.0,False
+681,mountains,0.0,False
+682,mouse,0.0,False
+683,mouse pad,0.0,False
+684,mousepad,0.0,False
+685,mouth,0.0,False
+686,mud,0.0,False
+687,mug,0.0,False
+688,mulch,0.0,False
+689,mural of red paint,0.0,False
+690,mushrooms,0.0,False
+691,mustard,0.0,False
+692,name,0.0,False
+693,napkin,0.0,False
+694,napkins,0.0,False
+695,neck,0.0,False
+696,necklace,0.0,False
+697,necktie,0.0,False
+698,net,0.0,False
+699,netting,0.0,False
+700,newspaper,0.0,False
+701,nightstand,0.0,False
+702,noodles,0.0,False
+703,nose,0.0,False
+704,notebook,0.0,False
+705,number,0.0,False
+706,numbers,0.0,False
+707,numerals,0.0,False
+708,nuts,0.0,False
+709,oar,0.0,False
+710,object,0.0,False
+711,objects,0.0,False
+712,ocean,0.0,False
+713,officer,0.0,False
+714,olive,0.0,False
+715,olives,0.0,False
+716,onion,0.0,False
+717,onions,0.0,False
+718,orange,0.0037675215788184405,True
+719,oranges,0.0,False
+720,ornament,0.0,False
+721,ottoman,0.0,False
+722,outfit,0.0,False
+723,outlet,0.0,False
+724,outside,0.0,False
+725,oven,0.0,False
+726,overpass,0.0,False
+727,pack,0.0,False
+728,package,0.0,False
+729,packet,0.0,False
+730,pad,0.0,False
+731,paddle,0.0,False
+732,pads,0.0,False
+733,paint,0.0,False
+734,painting,0.003600092680065311,True
+735,palm,0.0,False
+736,palm tree,0.0,False
+737,palm trees,0.0,False
+738,pan,0.0,False
+739,panda,0.0,False
+740,pane,0.0,False
+741,panel,0.0,False
+742,panels,0.0,False
+743,panes,0.0,False
+744,pant,0.0,False
+745,pants,0.0,False
+746,paper,0.005101859874584827,True
+747,paper plate,0.0,False
+748,papers,0.0,False
+749,parade,0.0,False
+750,parasail,0.0,False
+751,parasol,0.0,False
+752,park,0.0028777505110467397,True
+753,parking lot,0.0,False
+754,parking meter,0.0,False
+755,part,0.0,False
+756,partition,0.0,False
+757,passenger,0.0,False
+758,passengers,0.0,False
+759,pasta,0.0,False
+760,pastry,0.0,False
+761,pasture,0.0,False
+762,patch,0.0,False
+763,path,0.0,False
+764,pathway,0.0,False
+765,patio,0.0,False
+766,pattern,0.004351745516562052,True
+767,pavement,0.0,False
+768,paw,0.0,False
+769,paws,0.0,False
+770,peak,0.0,False
+771,peaks,0.0,False
+772,pear,0.0,False
+773,pedal,0.0,False
+774,pedestrian,0.0,False
+775,peel,0.0,False
+776,pen,0.0,False
+777,pencil,0.0,False
+778,people,0.0037344708171190744,True
+779,pepper,0.0,False
+780,pepperoni,0.0,False
+781,peppers,0.0,False
+782,person,0.05531700150014914,True
+783,petal,0.0,False
+784,petals,0.0,False
+785,phone,0.0,False
+786,photo,0.009428697955163167,True
+787,photographing,0.0,False
+788,pickle,0.0,False
+789,picture,0.0025549352864229144,True
+790,picture frame,0.0,False
+791,pictures,0.003929141395057797,True
+792,pie,0.0,False
+793,piece,0.002736873628715011,True
+794,pieces,0.0,False
+795,pier,0.0,False
+796,pile,0.0,False
+797,pillar,0.0,False
+798,pillars,0.0,False
+799,pillow,0.0,False
+800,pillows,0.0,False
+801,pine tree,0.0,False
+802,pineapple,0.0,False
+803,pipe,0.0,False
+804,pipes,0.0,False
+805,pit bull,0.0,False
+806,pitcher,0.0,False
+807,pitching area,0.0,False
+808,pizza,0.0,False
+809,pizza server,0.0,False
+810,place,0.0,False
+811,placemat,0.0,False
+812,plane,0.0,False
+813,planes,0.0,False
+814,plank,0.0,False
+815,planks,0.0,False
+816,plant,0.0,False
+817,planter,0.0,False
+818,plants,0.0,False
+819,plastic,0.0,False
+820,plate,0.0,False
+821,plates,0.0,False
+822,platform,0.0,False
+823,player,0.0,False
+824,players,0.0,False
+825,plug,0.0,False
+826,pocket,0.0,False
+827,pole,0.0,False
+828,poles,0.0,False
+829,police officer,0.0,False
+830,policeman,0.0,False
+831,pond,0.0,False
+832,pony,0.0,False
+833,ponytail,0.0,False
+834,pool,0.0,False
+835,porch,0.0,False
+836,portion,0.0,False
+837,post,0.0,False
+838,posten,0.0,False
+839,poster,0.002889819609420104,True
+840,posts,0.0,False
+841,pot,0.0,False
+842,potato,0.0,False
+843,potatoes,0.0,False
+844,pots,0.0,False
+845,power line,0.0,False
+846,power lines,0.0,False
+847,print,0.004567079451935611,True
+848,printer,0.0,False
+849,produce,0.0,False
+850,propeller,0.0,False
+851,puddle,0.0,False
+852,pumpkin,0.0,False
+853,puppy,0.0,False
+854,purse,0.0,False
+855,quarry,0.0,False
+856,quilt,0.0,False
+857,rack,0.0,False
+858,racket,0.0,False
+859,racquet,0.0,False
+860,raft,0.0,False
+861,rail,0.0,False
+862,railing,0.0,False
+863,railings,0.0,False
+864,railroad,0.0,False
+865,rails,0.0,False
+866,ramp,0.0,False
+867,range,0.0,False
+868,rare wheel,0.0,False
+869,rear,0.0,False
+870,rectangle,0.0,False
+871,reflection,0.0,False
+872,reflector,0.0,False
+873,refrigerator,0.0,False
+874,relish,0.0,False
+875,remote,0.0,False
+876,remote control,0.0,False
+877,ribbon,0.0,False
+878,rice,0.0,False
+879,rider,0.0,False
+880,right,0.002120155964581573,True
+881,right arm,0.0,False
+882,right ear,0.0,False
+883,right hand,0.0,False
+884,right leg,0.0,False
+885,rim,0.0,False
+886,ring,0.0,False
+887,ripple,0.0,False
+888,ripples,0.0,False
+889,river,0.0,False
+890,riverbed,0.0,False
+891,road,0.002041003899645049,True
+892,road sign,0.0,False
+893,roadway,0.0,False
+894,robe,0.0,False
+895,rock,0.0,False
+896,rocks,0.0,False
+897,rod,0.0,False
+898,roll,0.0,False
+899,rolling bag,0.0,False
+900,rolls,0.0,False
+901,roman numerals,0.0,False
+902,roof,0.0,False
+903,room,0.007834144593368866,True
+904,rope,0.0,False
+905,rose,0.0,False
+906,roses,0.0,False
+907,row,0.0,False
+908,rug,0.0,False
+909,run way,0.0,False
+910,runway,0.0,False
+911,rust,0.0,False
+912,s,0.018779755798372846,True
+913,saddle,0.0,False
+914,salad,0.0,False
+915,salmon,0.0,False
+916,salt shaker,0.0,False
+917,sand,0.0,False
+918,sandwich,0.0,False
+919,satchel,0.0,False
+920,sauce,0.0,False
+921,saucer,0.0,False
+922,sausage,0.0,False
+923,scale,0.0,False
+924,scarf,0.0,False
+925,scissors,0.0,False
+926,scooter,0.0,False
+927,screen,0.0,False
+928,sculpture,0.0,False
+929,sea,0.0027098441534568617,True
+930,sea gulls,0.0,False
+931,seagull,0.0,False
+932,seat,0.0,False
+933,seats,0.0,False
+934,section,0.0,False
+935,sectional,0.0,False
+936,shade,0.0,False
+937,shades,0.0,False
+938,shadow,0.0,False
+939,shadows,0.0,False
+940,shaker,0.0,False
+941,shape,0.0,False
+942,shed,0.0,False
+943,sheep,0.0,False
+944,sheet,0.0,False
+945,sheets,0.0,False
+946,shelf,0.0,False
+947,shelter,0.0,False
+948,shelves,0.0,False
+949,shepard,0.0,False
+950,ship,0.0,False
+951,shirt,0.006586305923526744,True
+952,shirts,0.0,False
+953,shoe,0.0,False
+954,shoes,0.0,False
+955,shop,0.002208565425852831,True
+956,shore,0.0,False
+957,shoreline,0.0,False
+958,short,0.0029606691956953904,True
+959,shorts,0.0,False
+960,shower,0.0,False
+961,shower curtain,0.0,False
+962,shower doors,0.0,False
+963,shrimp,0.0,False
+964,shrub,0.0,False
+965,shrubbery,0.0,False
+966,shrubs,0.0,False
+967,shutter,0.0,False
+968,side,0.0036761677880539005,True
+969,side of rock,0.0,False
+970,sidewalk,0.0,False
+971,siding,0.0,False
+972,sign,0.0025433436468862984,True
+973,sign post,0.0,False
+974,signal,0.0,False
+975,signboard,0.0,False
+976,signs,0.0,False
+977,silverware,0.0,False
+978,sink,0.0,False
+979,skate board,0.0,False
+980,skate park,0.0,False
+981,skateboard,0.0,False
+982,skateboarder,0.0,False
+983,skater,0.0,False
+984,skater shoes,0.0,False
+985,ski,0.0,False
+986,ski pants,0.0,False
+987,ski pole,0.0,False
+988,ski poles,0.0,False
+989,ski slope,0.0,False
+990,skier,0.0,False
+991,skiers,0.0,False
+992,skies,0.0,False
+993,skin,0.0,False
+994,skirt,0.0,False
+995,skis,0.0,False
+996,skull,0.0,False
+997,skull picture,0.0,False
+998,sky,0.0036003048839927548,True
+999,sky scrapers,0.0,False
+1000,skyline,0.0,False
+1001,slab,0.0,False
+1002,slat,0.0,False
+1003,sleeve,0.0020079796634366134,True
+1004,sleeves,0.0,False
+1005,slice,0.0,False
+1006,slices,0.0,False
+1007,slope,0.0,False
+1008,smile,0.0,False
+1009,smoke,0.0,False
+1010,sneaker,0.0,False
+1011,sneakers,0.0,False
+1012,snow,0.0,False
+1013,snowboard,0.0,False
+1014,snowboarder,0.0,False
+1015,soap,0.0,False
+1016,soap dish,0.0,False
+1017,soap dispenser,0.0,False
+1018,soccer ball,0.0,False
+1019,soccer player,0.0,False
+1020,sock,0.0,False
+1021,socket,0.0,False
+1022,socks,0.0,False
+1023,sofa,0.0,False
+1024,soil,0.0,False
+1025,someone,0.0,False
+1026,soup,0.0,False
+1027,space,0.0038418194789146885,True
+1028,spatula,0.0,False
+1029,speaker,0.0,False
+1030,spectator,0.0,False
+1031,spectators,0.0,False
+1032,spinach,0.0,False
+1033,spire,0.0,False
+1034,splash,0.0,False
+1035,spokes,0.0,False
+1036,spoon,0.0,False
+1037,spot,0.0,False
+1038,spots,0.0,False
+1039,spout,0.0,False
+1040,sprinkles,0.0,False
+1041,square,0.0029141169591124145,True
+1042,squares,0.0,False
+1043,squash,0.0,False
+1044,stabilizer,0.0,False
+1045,stadium,0.0,False
+1046,stage,0.0,False
+1047,stain,0.0,False
+1048,stair,0.0,False
+1049,staircase,0.0,False
+1050,stairs,0.0,False
+1051,stairway,0.0,False
+1052,stalk,0.0,False
+1053,stand,0.0,False
+1054,stands,0.0,False
+1055,star,0.0,False
+1056,station,0.0,False
+1057,station wagon,0.0,False
+1058,statue,0.0,False
+1059,steeple,0.0,False
+1060,steering wheel,0.0,False
+1061,stem,0.0,False
+1062,stems,0.0,False
+1063,step,0.0,False
+1064,steps,0.0,False
+1065,stick,0.0,False
+1066,sticker,0.0,False
+1067,stickers,0.0,False
+1068,sticks,0.0,False
+1069,stone,0.002649472136099111,True
+1070,stones,0.0,False
+1071,stool,0.0,False
+1072,stop,0.0,False
+1073,stop light,0.0,False
+1074,stop sign,0.0,False
+1075,store,0.0,False
+1076,storefront,0.0,False
+1077,stove,0.0,False
+1078,strap,0.0,False
+1079,straps,0.0,False
+1080,straw,0.0,False
+1081,strawberries,0.0,False
+1082,strawberry,0.0,False
+1083,stream,0.0,False
+1084,street,0.002902684472521382,True
+1085,street lamp,0.0,False
+1086,street light,0.0,False
+1087,street lighting,0.0,False
+1088,street lights,0.0,False
+1089,street sign,0.0,False
+1090,streetlight,0.0,False
+1091,string,0.0,False
+1092,strings,0.0,False
+1093,strip,0.0,False
+1094,stripe,0.0,False
+1095,stripes,0.0,False
+1096,stroller,0.0,False
+1097,structure,0.0,False
+1098,stuff,0.0,False
+1099,stuffed animal,0.0,False
+1100,sugar,0.0,False
+1101,suit,0.0,False
+1102,suitcase,0.0,False
+1103,suitcases,0.0,False
+1104,sun,0.0,False
+1105,sunglasses,0.0,False
+1106,sunlight,0.0,False
+1107,sunset,0.0,False
+1108,support,0.0,False
+1109,surf board,0.0,False
+1110,surface,0.0,False
+1111,surfboard,0.0,False
+1112,surfboards,0.0,False
+1113,surfer,0.0,False
+1114,surfers,0.0,False
+1115,surfing,0.0,False
+1116,suv,0.0,False
+1117,sweater,0.0,False
+1118,sweatshirt,0.0,False
+1119,swim trunks,0.0,False
+1120,switch,0.0,False
+1121,system,0.0,False
+1122,t,0.007256180671484845,True
+1123,t shirt,0.0,False
+1124,t-shirt,0.003845983980990772,True
+1125,table,0.005524039588234194,True
+1126,table cloth,0.0,False
+1127,table top,0.0,False
+1128,tablecloth,0.0,False
+1129,tables,0.0,False
+1130,tag,0.0,False
+1131,tail,0.0,False
+1132,tail feathers,0.0,False
+1133,tail light,0.0,False
+1134,tank,0.0,False
+1135,tank top,0.0,False
+1136,tanks,0.0,False
+1137,tape,0.0,False
+1138,tarmac,0.0,False
+1139,tarp,0.0,False
+1140,tattoo,0.0,False
+1141,taxi,0.0,False
+1142,tea candle holder,0.0,False
+1143,team,0.0,False
+1144,teapot,0.0,False
+1145,teddy bear,0.0,False
+1146,tee shirt,0.0,False
+1147,teenager,0.0,False
+1148,telephone,0.0,False
+1149,telephone pole,0.0,False
+1150,television,0.0,False
+1151,tennis ball,0.0,False
+1152,tennis court,0.0,False
+1153,tennis player,0.0,False
+1154,tennis racket,0.0,False
+1155,tennis shoe,0.0,False
+1156,tent,0.0,False
+1157,terrain,0.0,False
+1158,terrycloth,0.0,False
+1159,text,0.0027780146651481706,True
+1160,thigh,0.0,False
+1161,tie,0.0,False
+1162,tile,0.0,False
+1163,tile flooring,0.0,False
+1164,tiles,0.0,False
+1165,time,0.0033392675277459953,True
+1166,tip,0.0,False
+1167,tire,0.0,False
+1168,tires,0.0,False
+1169,title,0.0,False
+1170,toast,0.0,False
+1171,toddler,0.0,False
+1172,toilet,0.0,False
+1173,toilet seat,0.0,False
+1174,tomato,0.0,False
+1175,tomatoes,0.0,False
+1176,tongs,0.0,False
+1177,tongue,0.0,False
+1178,tool,0.0,False
+1179,toothbrush,0.0,False
+1180,toothpaste,0.0,False
+1181,toothpick,0.0,False
+1182,top,0.005564623589357814,True
+1183,topping,0.0,False
+1184,toppings,0.0,False
+1185,tour bus,0.0,False
+1186,towel,0.0,False
+1187,towel rack,0.0,False
+1188,towels,0.0,False
+1189,tower,0.0,False
+1190,toy,0.0021603951343230968,True
+1191,toy bear,0.0,False
+1192,toys,0.0,False
+1193,track,0.0,False
+1194,tracks,0.0,False
+1195,traffic,0.0,False
+1196,traffic light,0.0,False
+1197,traffic lights,0.0,False
+1198,traffic sign,0.0,False
+1199,traffic signal,0.0,False
+1200,trail,0.0,False
+1201,train,0.0,False
+1202,train car,0.0,False
+1203,train engine,0.0,False
+1204,train platform,0.0,False
+1205,train station,0.0,False
+1206,train track,0.0,False
+1207,train tracks,0.0,False
+1208,trains,0.0,False
+1209,trash,0.0,False
+1210,trash bin,0.0,False
+1211,trash bucket,0.0,False
+1212,trash can,0.0,False
+1213,trashcan,0.0,False
+1214,tray,0.0,False
+1215,tree,0.004232380807374935,True
+1216,tree branch,0.0,False
+1217,tree branches,0.0,False
+1218,tree trunk,0.0,False
+1219,trees,0.0021700769385127184,True
+1220,triangle,0.0,False
+1221,trim,0.0,False
+1222,trouser,0.0,False
+1223,trousers,0.0,False
+1224,truck,0.0,False
+1225,trumpet,0.0,False
+1226,trunk,0.0,False
+1227,trunks,0.0,False
+1228,tub,0.0,False
+1229,tunnel,0.0,False
+1230,tusk,0.0,False
+1231,tv,0.0,False
+1232,twig,0.0,False
+1233,twigs,0.0,False
+1234,two dogs,0.0,False
+1235,two skiers,0.0,False
+1236,tyre,0.0,False
+1237,umbrella,0.0,False
+1238,umbrellas,0.0,False
+1239,umpire,0.0,False
+1240,uniform,0.0,False
+1241,urinal,0.0,False
+1242,utensil,0.0,False
+1243,utensils,0.0,False
+1244,utility pole,0.0,False
+1245,van,0.0,False
+1246,vanity,0.0,False
+1247,vase,0.0,False
+1248,vases,0.0,False
+1249,vegetable,0.0,False
+1250,vegetables,0.0,False
+1251,vegetation,0.0,False
+1252,veggies,0.0,False
+1253,vehicle,0.0,False
+1254,vehicles,0.0,False
+1255,vest,0.0,False
+1256,via,0.0,False
+1257,video games,0.0,False
+1258,view,0.0062246043291988495,True
+1259,vine,0.0,False
+1260,vines,0.0,False
+1261,visor,0.0,False
+1262,volkswagen,0.0,False
+1263,wake,0.0,False
+1264,walkway,0.0,False
+1265,wall,0.00792565753707899,True
+1266,wallpaper,0.0028394211766522097,True
+1267,walls,0.002011401451766644,True
+1268,watch,0.0,False
+1269,water,0.007470188332311881,True
+1270,water bottle,0.0,False
+1271,water in scene,0.0,False
+1272,water source,0.0,False
+1273,watermelon,0.0,False
+1274,waters,0.0,False
+1275,wave,0.0,False
+1276,waves,0.0,False
+1277,weather,0.0,False
+1278,weed,0.0,False
+1279,weeds,0.0,False
+1280,wetsuit,0.0,False
+1281,wheel,0.0,False
+1282,wheels,0.0,False
+1283,whisker,0.0,False
+1284,whiskers,0.0,False
+1285,white,0.03341050040736523,True
+1286,window,0.0020517467234718897,True
+1287,window pane,0.0,False
+1288,window sill,0.0,False
+1289,windows,0.0,False
+1290,windshield,0.0,False
+1291,wine,0.0,False
+1292,wine glass,0.0,False
+1293,wing,0.0,False
+1294,wings,0.0,False
+1295,winter jacket,0.0,False
+1296,wipers,0.0,False
+1297,wire,0.0,False
+1298,wires,0.0,False
+1299,woman,0.0072779846250296916,True
+1300,women,0.003975189647313093,True
+1301,wood,0.0038837297545848315,True
+1302,woodland,0.0,False
+1303,woods,0.0,False
+1304,word,0.0,False
+1305,words,0.0,False
+1306,wrap,0.0,False
+1307,wrapper,0.0,False
+1308,wrist,0.0,False
+1309,wristband,0.0,False
+1310,writing,0.0,False
+1311,y patients,0.0,False
+1312,yacht,0.0,False
+1313,yard,0.0,False
+1314,zebra,0.0,False
+1315,zebras,0.0,False
+1316,zipper,0.0,False

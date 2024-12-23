@@ -1,0 +1,2 @@
+scripts/run_experiment_OVAD.sh
+scripts/run_experiment_VAW.sh

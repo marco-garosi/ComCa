@@ -1,0 +1,81 @@
+_,supercategory,isthing,id,name,ov_set
+0,person,1,1,person,base
+1,vehicle,1,2,bicycle,base
+2,vehicle,1,3,car,base
+3,vehicle,1,4,motorcycle,base
+4,vehicle,1,5,airplane,novel
+5,vehicle,1,6,bus,novel
+6,vehicle,1,7,train,base
+7,vehicle,1,8,truck,base
+8,vehicle,1,9,boat,base
+9,outdoor,1,10,traffic light,novel
+10,outdoor,1,11,fire hydrant,novel
+11,outdoor,1,13,stop sign,novel
+12,outdoor,1,14,parking meter,novel
+13,outdoor,1,15,bench,base
+14,animal,1,16,bird,base
+15,animal,1,17,cat,novel
+16,animal,1,18,dog,novel
+17,animal,1,19,horse,base
+18,animal,1,20,sheep,base
+19,animal,1,21,cow,novel
+20,animal,1,22,elephant,novel
+21,animal,1,23,bear,base
+22,animal,1,24,zebra,base
+23,animal,1,25,giraffe,base
+24,accessory,1,27,backpack,base
+25,accessory,1,28,umbrella,novel
+26,accessory,1,31,handbag,base
+27,accessory,1,32,tie,novel
+28,accessory,1,33,suitcase,base
+29,sports,1,34,frisbee,base
+30,sports,1,35,skis,base
+31,sports,1,36,snowboard,novel
+32,sports,1,37,sports ball,novel
+33,sports,1,38,kite,base
+34,sports,1,39,baseball bat,novel
+35,sports,1,40,baseball glove,novel
+36,sports,1,41,skateboard,novel
+37,sports,1,42,surfboard,base
+38,sports,1,43,tennis racket,novel
+39,kitchen,1,44,bottle,base
+40,kitchen,1,46,wine glass,novel
+41,kitchen,1,47,cup,novel
+42,kitchen,1,48,fork,base
+43,kitchen,1,49,knife,novel
+44,kitchen,1,50,spoon,base
+45,kitchen,1,51,bowl,base
+46,food,1,52,banana,base
+47,food,1,53,apple,base
+48,food,1,54,sandwich,base
+49,food,1,55,orange,base
+50,food,1,56,broccoli,base
+51,food,1,57,carrot,base
+52,food,1,58,hot dog,novel
+53,food,1,59,pizza,base
+54,food,1,60,donut,base
+55,food,1,61,cake,novel
+56,furniture,1,62,chair,base
+57,furniture,1,63,couch,novel
+58,furniture,1,64,potted plant,novel
+59,furniture,1,65,bed,base
+60,furniture,1,67,dining table,novel
+61,furniture,1,70,toilet,base
+62,electronic,1,72,tv,base
+63,electronic,1,73,laptop,base
+64,electronic,1,74,mouse,base
+65,electronic,1,75,remote,base
+66,electronic,1,76,keyboard,novel
+67,electronic,1,77,cell phone,novel
+68,appliance,1,78,microwave,base
+69,appliance,1,79,oven,base
+70,appliance,1,80,toaster,base
+71,appliance,1,81,sink,novel
+72,appliance,1,82,refrigerator,base
+73,indoor,1,84,book,base
+74,indoor,1,85,clock,base
+75,indoor,1,86,vase,base
+76,indoor,1,87,scissors,novel
+77,indoor,1,88,teddy bear,novel
+78,indoor,1,89,hair drier,novel
+79,indoor,1,90,toothbrush,base

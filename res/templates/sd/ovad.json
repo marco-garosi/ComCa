@@ -1,0 +1,54 @@
+{
+    "has": {
+        "none": ["{attr} {dobj} {noun}"],
+        "a": ["a {attr} {dobj} {noun}", "a {noun} has {attr} {dobj}"],
+        "the": ["the {attr} {dobj} {noun}", "the {noun} has {attr} {dobj}"],
+        "photo": [
+            "a photo of a {attr} {dobj} {noun}",
+            "a photo of an {noun} which has {attr} {dobj}",
+            "a photo of the {attr} {dobj} {noun}",
+            "a photo of the {noun} which has {attr} {dobj}"
+        ]
+    },
+    "is": {
+        "none": ["{attr} {noun}"],
+        "a": ["a {attr} {noun}", "a {noun} is {attr}"],
+        "the": ["the {attr} {noun}", "the {noun} is {attr}"],
+        "photo": [
+            "a photo of a {attr} {noun}",
+            "a photo of a {noun} which is {attr}",
+            "a photo of the {attr} {noun}",
+            "a photo of the {noun} which is {attr}"
+        ]
+    },
+    "class_only": {
+        "none": ["{noun}"],
+        "a": ["a {noun}"],
+        "the": ["the {noun}"],
+        "photo": [
+            "a photo of a {noun}",
+            "a photo of the {noun}"
+        ]
+    },
+    "attribute_only": {
+        "has": {
+            "none": ["{attr} {dobj}"],
+            "a": ["a {attr} {dobj}"],
+            "the": ["the {attr} {dobj}"],
+            "photo": [
+                "a photo of a {attr} {dobj}",
+                "a photo of {attr} {dobj}",
+                "a photo of the {attr} {dobj}"
+            ]
+        },
+        "is": {
+            "none": ["{attr}"],
+            "a": ["a {attr}"],
+            "the": ["the {attr}"],
+            "photo": [
+                "a photo of a {attr}",
+                "a photo of the {attr}"
+            ]
+        }
+    }
+}

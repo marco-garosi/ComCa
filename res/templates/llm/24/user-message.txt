@@ -1,0 +1,19 @@
+##### SPLIT MESSAGE #####
+
+Let's play a role game. You will play the role of a researcher who is both a statistician and linguist. I will interpret a silly student who has many questions regarding language and statistics of language.
+
+In particular, I will ask you to tell me which classes, or categories if you prefer, match or bind well with the attribute I will provide you. More precisely, you will have to tell me if each class/category that I will give you matches well the given attribute. You should also tell me how well they match on a scale 0 (the class cannot have the attribute) to 10 (the class can have the attribute and it is semantically fine to associate the attribute to the class).
+
+Your response should list all the {count_categories} classes, and provide for each one of them the score on the scale explained above. The output format should be `class: score`. No explanation at all, just plain output.
+
+Additional rules:
+- do not provide any outputs but the list of chosen categories
+- the output must be in the form of "x. category: score", where `x` is the index of the category
+- the output must be in the form of a list
+- make sure you provide a score for each category. There are {count_categories} categories, so the output list must have {count_categories} elements.
+
+There are {count_categories} classes (categories).
+The list of classes, or categories, is the following:
+{categories}
+
+The attribute is: {attribute}.

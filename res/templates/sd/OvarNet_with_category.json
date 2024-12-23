@@ -1,0 +1,8 @@
+{
+    "has": {
+        "none": ["A photo of {noun} that is {attr}"]
+    },
+    "is": {
+        "none": ["A photo of {noun} that is {attr}"]
+    }
+}

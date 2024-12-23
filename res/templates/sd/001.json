@@ -1,0 +1,29 @@
+{
+    "has": {
+        "none": [
+            "a {noun} with {attr} {dobj} on a clear background, hyperrealistic, highly detailed, sharp focus, 4k"
+        ]
+    },
+    "is": {
+        "none": [
+            "a {attr} {noun} on a clear background, hyperrealistic, highly detailed, sharp focus, 4k"
+        ]
+    },
+    "class_only": {
+        "none": [
+            "a {noun} on a clear background, hyperrealistic, highly detailed, sharp focus, 4k"
+        ]
+    },
+    "attribute_only": {
+        "has": {
+            "none": [
+                "{attr} {dobj} on a clear background, hyperrealistic, highly detailed, sharp focus, 4k"
+            ]
+        },
+        "is": {
+            "none": [
+                "{attr} on a clear background, hyperrealistic, highly detailed, sharp focus, 4k"
+            ]
+        }
+    }
+}

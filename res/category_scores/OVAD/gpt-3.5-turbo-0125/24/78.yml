@@ -1,0 +1,80 @@
+person: 0
+bicycle: 0
+car: 0
+motorcycle: 0
+airplane: 0
+bus: 0
+train: 0
+truck: 0
+boat: 0
+traffic light: 0
+fire hydrant: 0
+stop sign: 0
+parking meter: 0
+bench: 0
+bird: 0
+cat: 0
+dog: 0
+horse: 0
+sheep: 0
+cow: 0
+elephant: 0
+bear: 0
+zebra: 0
+giraffe: 0
+backpack: 7
+umbrella: 7
+handbag: 7
+tie: 0
+suitcase: 7
+frisbee: 0
+skis: 0
+snowboard: 0
+sports ball: 0
+kite: 0
+baseball bat: 0
+baseball glove: 0
+skateboard: 0
+surfboard: 0
+tennis racket: 0
+bottle: 0
+wine glass: 0
+cup: 0
+fork: 0
+knife: 0
+spoon: 0
+bowl: 0
+banana: 0
+apple: 0
+sandwich: 0
+orange: 0
+broccoli: 0
+carrot: 0
+hot dog: 0
+pizza: 0
+donut: 0
+cake: 0
+chair: 7
+couch: 7
+potted plant: 7
+bed: 7
+dining table: 7
+toilet: 0
+tv: 0
+laptop: 0
+mouse: 0
+remote: 0
+keyboard: 0
+cell phone: 0
+microwave: 0
+oven: 0
+toaster: 0
+sink: 0
+refrigerator: 0
+book: 0
+clock: 0
+vase: 0
+scissors: 0
+teddy bear: 7
+hair drier: 0
+toothbrush: 0
